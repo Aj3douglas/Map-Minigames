@@ -1,0 +1,6 @@
+name: Mapgames
+version: @version@
+main: org.aj3douglas.mapgames.Mapgames
+api-version: 1.16
+authors: [Aj3douglas]
+description: Map minigames
